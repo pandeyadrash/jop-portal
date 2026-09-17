@@ -1205,7 +1205,7 @@ These concepts are directly relevant to MERN-stack internships and junior full-s
 
 # Author
 
-**Niraj Kumar**
+**Adrash Kumar Pandey**
 
 Computer Science Engineering Student  
 Full-Stack / MERN Development Project
